@@ -1,5 +1,6 @@
 # 💫 About Me:
-I love java<br>
+Hello!<br>
+Current in progress Web-Devloper
 
 
 ## 🌐 Socials:
